@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Competitive Programming**
 
-- 💬 Ask me about **C++, C# and Unity**
+- 💬 Ask me about **C++, C#, Unity and Crypto Trading**
 
 - 📫 How to reach me **zeeshanislam015@gmail.com**
 
