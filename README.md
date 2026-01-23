@@ -5,7 +5,7 @@
 
 # 💫 About Me:
 
-- 🔭 I’m currently working on **PyCharm**
+- 🔭 I’m currently working on **Android Studio**
   
 - 🌱 I’m currently learning **Game Development**
 
