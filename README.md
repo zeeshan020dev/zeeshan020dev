@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Android Studio**
   
-- 🌱 I’m currently learning **Game Development**
+- 🌱 I’m currently learning **Game Development** From CEGA
 
 - 👯 I’m looking to collaborate on **Competitive Gaming/Programming & AI Hackathons**
 
