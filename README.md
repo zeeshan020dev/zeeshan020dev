@@ -23,10 +23,17 @@
 
 <h2>📊 GitHub Stats:</h2>
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=zeeshan020dev&theme=dark&hide_border=false" />
-  <br/><br/>
-</p>
+<div align="center">
+  <a href="https://github.com/zeeshan020dev">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshan020dev&theme=react&hide_border=true" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <i>"If you don't laugh at my jokes, send them to a developer. Because you are not the one."</i>
+</div>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
