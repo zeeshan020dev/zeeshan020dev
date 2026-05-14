@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋 I'm Muhammad Zeeshan Islam</h1>
-<h3 align="center">A Game Developer Trainee from CEGA Pakistan</h3>
+<h1 align="center">Hi 👋 I'm Taha Siraj</h1>
+<h3 align="center">An Ambassador of CEGA Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zeeshan020dev&label=Profile%20views&color=0e75b6&style=flat" alt="zeeshan020dev" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mtahasirajofficial&label=Profile%20views&color=0e75b6&style=flat" alt="mtahasirajofficial" /> </p>
 
 # 💫 About Me:
 
