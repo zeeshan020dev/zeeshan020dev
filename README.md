@@ -245,7 +245,7 @@ Go to https://visitcount.itsvg.in to pick your icon (0–9) and color (0–9).
 
 Copy this structure — paste your actual content into each section:
 
-```
+
 1.  Capsule Render Header Banner
 2.  Animated Typing SVG
 3.  "Open to Work" badge
@@ -263,7 +263,7 @@ Copy this structure — paste your actual content into each section:
 15. Profile Summary Cards
 16. Snake Animation
 17. Capsule Render Footer Banner
-```
+
 
 ---
 
