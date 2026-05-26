@@ -1,52 +1,96 @@
-<h1 align="center">Hi 👋 I'm Muhammad Zeeshan Islam</h1>
-<h3 align="center">A Co-Founder of Unicodrex</h3>
+# Muhammad Zeeshan Islam
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zeeshan020dev&label=Profile%20views&color=0e75b6&style=flat" alt="zeeshan020dev" /> </p>
+**Unity Game Developer · Community Co-Founder · Builder**
 
-# 💫 About Me:
+I build games and the people who build games. Based in Lahore, I'm currently training as a Game Developer at CEGA Pakistan while running [Unicodrex](https://github.com/unicodrex) — a community where I've helped 500+ students build the professional visibility they need to actually land jobs.
 
-- 🔭 I’m currently working on **Unity3D**
-  
-- 🌱 I’m currently learning **Game Development** From CEGA Pakistan
+I care about two things: shipping games that work, and making sure other developers don't have to figure everything out alone.
 
-- 👯 I’m looking to collaborate on **Competitive Gaming/Programming & AI Hackathons**
+---
 
-- 💬 Ask me about **Gaming, Programming, Cryptocurrency & Blockchain**
+## 🎮 Games I've Shipped
 
-- ⚡ Fun fact **I think I am a Billionaire**
+### Endless Runner *(Unity · C#)*
+A complete endless runner built during my CEGA training. Handles procedural level generation, obstacle spawning, and score tracking.
+- 🔗 [Play it live on Unity Play](#) · [View source](#)
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/zeeshan020) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zeeshan020dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zeeshan020) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/zeeshan020dev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zeeshanislam015@gmail.com) 
+### Ball Blast Clone *(Unity · C#)*
+Recreated the core Ball Blast mechanics — projectile physics, ball splitting logic, and progressive difficulty.
+- 🔗 [View source](#)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
+### Car Obstacle Game *(Unity · C#)*
+Lane-based obstacle avoidance game with collision detection and speed ramp-up over time.
+- 🔗 [View source](#)
 
-<h2>📊 GitHub Stats:</h2>
+---
+
+## ⌨️ Console Games (C++ · Data Structures)
+
+### Tic Tac Toe — Minimax AI
+Not your tutorial tic tac toe. Implemented the full **Minimax algorithm** with alpha-beta pruning so the AI plays optimally. Built as a semester DSA project.
+- 🔗 [View source](#)
+
+### Snake Game — Console
+Fully console-based Snake game in C++. Custom rendering loop, collision logic, and growing body mechanics — no game engine, just logic.
+- 🔗 [View source](#)
+
+---
+
+## 🏗️ What I'm Currently Building
+
+- 🎮 Advancing my Unity skills at **CEGA Pakistan** — currently focused on physics systems and game feel
+- 🌐 Growing **Unicodrex** — our next series is focused on helping students break into the tech industry through structured mentorship
+- 📚 Deepening knowledge in **C# patterns**, **game architecture**, and **Unity optimization**
+
+---
+
+## 🤝 Unicodrex — What We've Actually Done
+
+I co-founded Unicodrex to close the gap between what universities teach and what the industry expects. In 2+ years:
+
+- **500+ students mentored** through our GitHub & LinkedIn visibility series — teaching developers how to present their work so recruiters actually notice
+- **14+ tech events & workshops** organized, collaborating with:
+  - CNCF Cloud Native Lahore
+  - AWS Community Pakistan
+  - CNSL Pakistan
+  - Skill Sprint
+- Connected students directly with **industry experts** and working professionals
+- Built a community of developers who help each other land their first internship or job
+
+---
+
+## 🛠️ Skills
+
+**Game Development**
+Unity · C# · Game Physics · Procedural Generation · Minimax Algorithm · C++ Game Logic
+
+**Programming**
+C · C++ · C# · Python · JavaScript · PHP
+
+**Web & Cloud**
+HTML/CSS · Bootstrap · Tailwind · Firebase · MySQL · Google Cloud · AWS (basics)
+
+**Tools**
+Git · GitHub · Arduino · Canva
+
+---
+
+## 📬 Let's Talk
+
+I'm actively looking for **on-site Game Development internships or junior roles** — ideally in Lahore or Pakistan-based studios.
+
+If you're hiring, collaborating, or just want to talk games and community building:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/zeeshan020)
+[![Email](https://img.shields.io/badge/Email-zeeshanislam015@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:zeeshanislam015@gmail.com)
+[![X](https://img.shields.io/badge/X-Follow-000000?style=flat&logo=x)](https://x.com/zeeshan020dev)
+
+---
 
 <div align="center">
-  <a href="https://github.com/zeeshan020dev">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshan020dev&theme=react&hide_border=true" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshan020dev&theme=react&hide_border=true" />
 </div>
-
-<br>
 
 <div align="center">
-  <i>"If you don't laugh at my jokes, send them to a developer/designer Because you are not the one."</i>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zeeshan020dev&layout=compact&langs_count=6&theme=algolia&hide_border=true" />
 </div>
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-<h2><i>⚙️ GitHub Analytics:</i></h2>
-
-<p align="center">
-    <a href="https://github.com/zeeshan020dev">
-        <img
-            height="180em"
-            src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zeeshan020dev&layout=compact&langs_count=8&theme=algolia"
-            alt="Top Languages."
-        />
-    </a>
-</p>
