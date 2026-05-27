@@ -181,12 +181,12 @@ I co-founded Unicodrex to close the gap between what universities teach and what
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zeeshan020dev&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zeeshan020dev&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zeeshan020dev&layout=compact&theme=react&hide_border=true&bg_color=0d1117&langs_count=6" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zeeshan020dev&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshan020dev&layout=compact&theme=react&hide_border=true&bg_color=0d1117&langs_count=6" />
+  <img src="https://github-trophies.vercel.app/?username=zeeshan020dev&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" />
 </p>
 
 <p align="center">
