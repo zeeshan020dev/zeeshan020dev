@@ -100,8 +100,11 @@ open_to:
       <p>Recreated core Ball Blast mechanics — projectile physics, ball splitting logic, and progressive difficulty scaling from scratch.</p>
       <p>
         <a href="https://github.com/zeeshan020dev/Ball-Blast-Game">
-          <img src="https://img.shields.io/badge/Source-Code-0f0c29?style=flat-square&logo=github&logoColor=white" />
-        </a>
+          <img src="https://img.shields.io/badge/Source Code-View-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+  </a>&nbsp;
+  <a href="https://play.unity.com/en/games/3c693589-8b12-442a-bc49-d595288b16eb/shooting-game">
+    <img src="https://img.shields.io/badge/▶ Play-Unity Play-00c9ff?style=for-the-badge&logo=unity&logoColor=white&labelColor=0d1117" />
+  </a>
       </p>
     </td>
   </tr>
