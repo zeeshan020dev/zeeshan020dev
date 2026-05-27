@@ -10,24 +10,25 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/zeeshan020">
-    <img src="https://img.shields.io/badge/LinkedIn-zeeshan020-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
+  </a>&nbsp;
   <a href="https://x.com/zeeshan020dev">
-    <img src="https://img.shields.io/badge/X-zeeshan020dev-000000?style=flat-square&logo=x&logoColor=white" />
-  </a>
+    <img src="https://img.shields.io/badge/X-Follow-ffffff?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117" />
+  </a>&nbsp;
   <a href="mailto:zeeshanislam015@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-zeeshanislam015-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
+    <img src="https://img.shields.io/badge/Gmail-Email Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
+  </a>&nbsp;
   <a href="https://facebook.com/zeeshan020">
-    <img src="https://img.shields.io/badge/Facebook-zeeshan020-1877F2?style=flat-square&logo=facebook&logoColor=white" />
-  </a>
+    <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0d1117" />
+  </a>&nbsp;
   <a href="https://instagram.com/zeeshan020dev">
-    <img src="https://img.shields.io/badge/Instagram-zeeshan020dev-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zeeshan020dev&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=zeeshan020dev&label=Profile+Views&color=00c9ff&style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/github/followers/zeeshan020dev?label=Followers&style=for-the-badge&color=00c9ff&labelColor=0d1117" />
 </p>
 
 ---
