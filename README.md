@@ -86,13 +86,13 @@ open_to:
       <p><b>Unity · C#</b></p>
       <p>Procedural level generation, dynamic obstacle spawning, and score tracking — built during CEGA training and live on Unity Play.</p>
       <p>
-        <a href="https://github.com/zeeshan020dev/Endless-Runner-Game">
-          <img src="https://img.shields.io/badge/Source-Code-0f0c29?style=flat-square&logo=github&logoColor=white" />
-        </a>
-        <a href="https://play.unity.com/en/games/57e5abb5-53b7-45c1-9776-cc1528fc8527/endless-runner-game">
-          <img src="https://img.shields.io/badge/▶%20Play-Unity%20Play-000000?style=flat-square&logo=unity&logoColor=white" />
-        </a>
-      </p>
+  <a href="https://github.com/zeeshan020dev/Endless-Runner-Game">
+    <img src="https://img.shields.io/badge/Source Code-View-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+  </a>&nbsp;
+  <a href="https://play.unity.com/en/games/57e5abb5-53b7-45c1-9776-cc1528fc8527/endless-runner-game">
+    <img src="https://img.shields.io/badge/▶ Play-Unity Play-00c9ff?style=for-the-badge&logo=unity&logoColor=white&labelColor=0d1117" />
+  </a>
+</p>
     </td>
     <td width="50%" valign="top">
       <h3>💣 Ball Blast Game</h3>
