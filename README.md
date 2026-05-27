@@ -150,8 +150,8 @@ Not tutorial tic tac toe. Implemented the full **Minimax algorithm** so the AI p
   <a href="https://github.com/zeeshan020dev/REPLACE-WITH-BALLBLAST-REPO">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=zeeshan020dev&repo=REPLACE-WITH-BALLBLAST-REPO&theme=react&hide_border=true&bg_color=0d1117" />
   </a>
-  <a href="https://github.com/zeeshan020dev/REPLACE-WITH-SNAKE-REPO">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=zeeshan020dev&repo=REPLACE-WITH-SNAKE-REPO&theme=react&hide_border=true&bg_color=0d1117" />
+  <a href="https://github.com/zeeshan020dev/Snake-Game">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=zeeshan020dev&repo=Snake-Game&theme=react&hide_border=true&bg_color=0d1117" />
   </a>
 </p>
 
