@@ -212,8 +212,6 @@ I co-founded Unicodrex to close the gap between what universities teach and what
   <img src="https://raw.githubusercontent.com/zeeshan020dev/zeeshan020dev/main/profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" />
 </p>
 
-> ⚠️ This won't appear until you run the 3D graph GitHub Action once. See `3d-contrib.yml`.
-
 ---
 
 ## 🐍 Contribution Snake
