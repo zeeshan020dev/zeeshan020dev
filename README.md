@@ -140,7 +140,7 @@ Not tutorial tic tac toe. Implemented the full **Minimax algorithm** so the AI p
 
 <p align="center">
   <a href="https://github.com/zeeshan020dev/Endless-Runner-Game">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=zeeshan020dev&repo=https://github.com/zeeshan020dev/Endless-Runner-Game&theme=react&hide_border=true&bg_color=0d1117" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=zeeshan020dev&repo=Endless-Runner-Game&theme=react&hide_border=true&bg_color=0d1117" />
   </a>
   <a href="https://github.com/zeeshan020dev/REPLACE-WITH-TICTACTOE-REPO">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=zeeshan020dev&repo=REPLACE-WITH-TICTACTOE-REPO&theme=react&hide_border=true&bg_color=0d1117" />
