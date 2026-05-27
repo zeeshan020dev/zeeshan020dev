@@ -48,7 +48,7 @@ what_i_do:
 
 currently:
   - 🎮 Training in Unity3D at CEGA Pakistan
-  - 🏗️  Building the next Unicodrex mentorship series
+  - 🏗️ Building the next Unicodrex mentorship series
   - 📚 Studying C# design patterns & game architecture
 
 passionate_about:
