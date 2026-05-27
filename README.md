@@ -83,20 +83,20 @@ open_to:
       <p><b>Unity · C#</b></p>
       <p>Procedural level generation, dynamic obstacle spawning, and score tracking — built during CEGA training and live on Unity Play.</p>
       <p>
-        <a href="https://github.com/zeeshan020dev/REPLACE-WITH-REPO-NAME">
+        <a href="https://github.com/zeeshan020dev/Endless-Runner-Game">
           <img src="https://img.shields.io/badge/Source-Code-0f0c29?style=flat-square&logo=github&logoColor=white" />
         </a>
-        <a href="REPLACE-WITH-UNITY-PLAY-LINK">
+        <a href="https://play.unity.com/en/games/57e5abb5-53b7-45c1-9776-cc1528fc8527/endless-runner-game">
           <img src="https://img.shields.io/badge/▶%20Play-Unity%20Play-000000?style=flat-square&logo=unity&logoColor=white" />
         </a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>💣 Ball Blast Clone</h3>
+      <h3>💣 Ball Blast Game</h3>
       <p><b>Unity · C#</b></p>
       <p>Recreated core Ball Blast mechanics — projectile physics, ball splitting logic, and progressive difficulty scaling from scratch.</p>
       <p>
-        <a href="https://github.com/zeeshan020dev/REPLACE-WITH-REPO-NAME">
+        <a href="https://github.com/zeeshan020dev/Ball-Blast-Game">
           <img src="https://img.shields.io/badge/Source-Code-0f0c29?style=flat-square&logo=github&logoColor=white" />
         </a>
       </p>
@@ -118,7 +118,7 @@ open_to:
       <p><b>C++ · Console</b></p>
       <p>Fully console-based Snake in C++. Custom render loop, collision logic, and growing body mechanics — no engine, pure logic.</p>
       <p>
-        <a href="https://github.com/zeeshan020dev/REPLACE-WITH-REPO-NAME">
+        <a href="https://github.com/zeeshan020dev/Snake-Game">
           <img src="https://img.shields.io/badge/Source-Code-0f0c29?style=flat-square&logo=github&logoColor=white" />
         </a>
       </p>
@@ -130,7 +130,7 @@ open_to:
 
 Not tutorial tic tac toe. Implemented the full **Minimax algorithm** so the AI plays optimally every time — built as a semester Data Structures & Algorithms project.
 
-<a href="https://github.com/zeeshan020dev/REPLACE-WITH-REPO-NAME">
+<a href="https://github.com/zeeshan020dev/Tic-Tac-Toe-Game">
   <img src="https://img.shields.io/badge/Source-Code-0f0c29?style=flat-square&logo=github&logoColor=white" />
 </a>
 
