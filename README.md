@@ -125,7 +125,7 @@ open_to:
       <p>Fully console-based Snake in C++. Custom render loop, collision logic, and growing body mechanics — no engine, pure logic.</p>
       <p>
         <a href="https://github.com/zeeshan020dev/Snake-Game">
-          <img src="https://img.shields.io/badge/Source-Code-0f0c29?style=flat-square&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/Source Code-View-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
         </a>
       </p>
     </td>
