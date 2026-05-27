@@ -115,8 +115,8 @@ open_to:
       <p>Lane-based obstacle avoidance with collision detection, speed ramp-up, and responsive controls.</p>
       <p>
         <a href="https://github.com/zeeshan020dev/Car-Obstacle-Game">
-          <img src="https://img.shields.io/badge/Source-Code-0f0c29?style=flat-square&logo=github&logoColor=white" />
-        </a>
+  <img src="https://img.shields.io/badge/Source Code-View-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+</a>
       </p>
     </td>
     <td width="50%" valign="top">
