@@ -27,23 +27,42 @@
 </p>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=zeeshan020dev&label=Profile%20Views&color=6&icon=5&pretty=true" />
+  <img src="https://komarev.com/ghpvc/?username=zeeshan020dev&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/zeeshan020dev?label=Followers&style=flat-square&color=0e75b6" alt="Followers" />
 </p>
 
 ---
 
 ## 👾 About Me
 
-I build games and the people who build games. Based in Lahore, I'm currently training as a Game Developer at **CEGA Pakistan** while running **Unicodrex** — a community where I've helped **500+ students** build the professional visibility they need to actually land jobs.
+```yaml
+name: Muhammad Zeeshan Islam
+role: Unity Game Developer | Co-Founder @ Unicodrex
+location: Lahore, Pakistan
 
-I care about two things: shipping games that work, and making sure other developers don't have to figure everything out alone.
+what_i_do:
+  - Build games with Unity & C#
+  - Mentor developers on GitHub & LinkedIn visibility
+  - Organize tech events bridging academia & industry
+  - Write AI-assisted prompts & workflows
 
-- 🎮 Currently training in **Unity3D & C#** at CEGA Pakistan
-- 🏗️ Co-Founded **Unicodrex** — mentored 500+ students, organized 14+ tech events
-- 🤝 Collaborated with **CNCF Cloud Native Lahore, AWS Community Pakistan, CNSL Pakistan & Skill Sprint**
-- 💬 Ask me about **Unity, Game Development, C++, Community Building**
-- 📫 Reach me at **zeeshanislam015@gmail.com**
-- 🎯 Goal: Land an **on-site Game Development internship or junior role**
+currently:
+  - 🎮 Training in Unity3D at CEGA Pakistan
+  - 🏗️  Building the next Unicodrex mentorship series
+  - 📚 Studying C# design patterns & game architecture
+
+passionate_about:
+  - 🎮 Game development & interactive experiences
+  - 🤝 Community building & student mentorship
+  - ⚡ Competitive programming & hackathons
+  - 🔗 Blockchain & cryptocurrency
+
+open_to:
+  - On-site Game Dev internships (Lahore / Pakistan)
+  - Junior Unity Developer roles
+  - Hackathon collaborations
+  - Speaking at student tech events
+```
 
 ---
 
@@ -62,12 +81,12 @@ I care about two things: shipping games that work, and making sure other develop
     <td width="50%" valign="top">
       <h3>🏃 Endless Runner</h3>
       <p><b>Unity · C#</b></p>
-      <p>A complete endless runner with procedural level generation, dynamic obstacle spawning, and score tracking — built during CEGA training.</p>
+      <p>Procedural level generation, dynamic obstacle spawning, and score tracking — built during CEGA training and live on Unity Play.</p>
       <p>
         <a href="https://github.com/zeeshan020dev/REPLACE-WITH-REPO-NAME">
           <img src="https://img.shields.io/badge/Source-Code-0f0c29?style=flat-square&logo=github&logoColor=white" />
         </a>
-        <a href="#">
+        <a href="REPLACE-WITH-UNITY-PLAY-LINK">
           <img src="https://img.shields.io/badge/▶%20Play-Unity%20Play-000000?style=flat-square&logo=unity&logoColor=white" />
         </a>
       </p>
@@ -75,7 +94,7 @@ I care about two things: shipping games that work, and making sure other develop
     <td width="50%" valign="top">
       <h3>💣 Ball Blast Clone</h3>
       <p><b>Unity · C#</b></p>
-      <p>Recreated the full Ball Blast mechanics — projectile physics, ball splitting logic, and progressive difficulty scaling from scratch.</p>
+      <p>Recreated core Ball Blast mechanics — projectile physics, ball splitting logic, and progressive difficulty scaling from scratch.</p>
       <p>
         <a href="https://github.com/zeeshan020dev/REPLACE-WITH-REPO-NAME">
           <img src="https://img.shields.io/badge/Source-Code-0f0c29?style=flat-square&logo=github&logoColor=white" />
@@ -87,7 +106,7 @@ I care about two things: shipping games that work, and making sure other develop
     <td width="50%" valign="top">
       <h3>🚗 Car Obstacle Game</h3>
       <p><b>Unity · C#</b></p>
-      <p>Lane-based obstacle avoidance with collision detection, speed ramp-up over time, and responsive controls.</p>
+      <p>Lane-based obstacle avoidance with collision detection, speed ramp-up, and responsive controls.</p>
       <p>
         <a href="https://github.com/zeeshan020dev/REPLACE-WITH-REPO-NAME">
           <img src="https://img.shields.io/badge/Source-Code-0f0c29?style=flat-square&logo=github&logoColor=white" />
@@ -107,7 +126,7 @@ I care about two things: shipping games that work, and making sure other develop
   </tr>
 </table>
 
-### ⌨️ Tic Tac Toe — Minimax AI &nbsp; `C++ · DSA · Semester Project`
+### ♟️ Tic Tac Toe — Minimax AI &nbsp;&nbsp; `C++ · DSA · Semester Project`
 
 Not tutorial tic tac toe. Implemented the full **Minimax algorithm** so the AI plays optimally every time — built as a semester Data Structures & Algorithms project.
 
@@ -140,8 +159,8 @@ Not tutorial tic tac toe. Implemented the full **Minimax algorithm** so the AI p
 
 ## 🏗️ What I'm Currently Working On
 
-- 🎮 Advancing Unity skills at **CEGA Pakistan** — focused on physics systems, game feel, and optimization
-- 🌐 Growing **Unicodrex** — next series focused on structured mentorship for students targeting their first tech role
+- 🎮 Advancing Unity at **CEGA Pakistan** — physics systems, game feel, and optimization
+- 🌐 Growing **Unicodrex** — structured mentorship series for students targeting their first tech role
 - 📚 Deepening knowledge in **C# design patterns**, **Unity architecture**, and **game performance profiling**
 
 ---
@@ -152,10 +171,10 @@ I co-founded Unicodrex to close the gap between what universities teach and what
 
 | What | Numbers |
 |------|---------|
-| Students mentored via GitHub & LinkedIn visibility series | **500+** |
-| Tech events & workshops organized | **14+** |
-| Community partners collaborated with | **CNCF Cloud Native Lahore · AWS Community Pakistan · CNSL Pakistan · Skill Sprint** |
-| Mission | Bridge academia and industry — give students real-world insights before their first interview |
+| 👨‍💻 Students mentored via GitHub & LinkedIn visibility series | **500+** |
+| 🎤 Tech events & workshops organized | **14+** |
+| 🌐 Community partners | **CNCF Cloud Native Lahore · AWS Community Pakistan · CNSL Pakistan · Skill Sprint** |
+| 🎯 Mission | Bridge academia and industry — give students real-world insights before their first interview |
 
 ---
 
@@ -187,7 +206,17 @@ I co-founded Unicodrex to close the gap between what universities teach and what
 
 ---
 
-## 🐍 Contribution Graph
+## 📈 3D Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/zeeshan020dev/zeeshan020dev/main/profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" />
+</p>
+
+> ⚠️ This won't appear until you run the 3D graph GitHub Action once. See `3d-contrib.yml`.
+
+---
+
+## 🐍 Contribution Snake
 
 <p align="center">
   <picture>
@@ -201,8 +230,8 @@ I co-founded Unicodrex to close the gap between what universities teach and what
 
 ## 📬 Let's Connect
 
-I'm actively looking for **on-site Game Development internships or junior roles** in Pakistan.  
-If you're hiring, mentoring, or just want to talk games and community building — reach out.
+I'm actively looking for **on-site Game Development internships or junior roles** in Pakistan.
+If you're hiring, mentoring, or just want to talk games and community — reach out.
 
 <p align="center">
   <a href="https://linkedin.com/in/zeeshan020">
