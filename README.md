@@ -197,8 +197,6 @@ I co-founded Unicodrex to close the gap between what universities teach and what
   </picture>
 </p>
 
-> ⚠️ Snake won't appear until you set up the GitHub Action. See setup instructions below.
-
 ---
 
 ## 📬 Let's Connect
