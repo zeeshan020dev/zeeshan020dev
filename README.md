@@ -29,6 +29,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zeeshan020dev&label=Profile+Views&color=00c9ff&style=for-the-badge&labelColor=0d1117" />
   <img src="https://img.shields.io/github/followers/zeeshan020dev?label=Followers&style=for-the-badge&color=00c9ff&labelColor=0d1117" />
+  <a href="https://github.com/zeeshan020dev">
+    <img src="https://img.shields.io/badge/GitHub-Pro-black?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 ---
