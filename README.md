@@ -107,7 +107,7 @@ open_to:
       <p><b>Unity · C#</b></p>
       <p>Lane-based obstacle avoidance with collision detection, speed ramp-up, and responsive controls.</p>
       <p>
-        <a href="https://github.com/zeeshan020dev/REPLACE-WITH-REPO-NAME">
+        <a href="https://github.com/zeeshan020dev/Car-Obstacle-Game">
           <img src="https://img.shields.io/badge/Source-Code-0f0c29?style=flat-square&logo=github&logoColor=white" />
         </a>
       </p>
