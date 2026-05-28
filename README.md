@@ -61,7 +61,7 @@ passionate_about:
   - 🔗 Blockchain & cryptocurrency
 
 open_to:
-  - On-site Game Dev internships (Lahore / Pakistan)
+  - On-site Game Dev internships (Lahore, Pakistan)
   - Junior Unity Developer roles
   - Hackathon collaborations
   - Speaking at student tech events
