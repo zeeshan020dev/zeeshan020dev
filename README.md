@@ -45,7 +45,7 @@ location: Lahore, Pakistan
 
 what_i_do:
   - Build games with Unity & C#
-  - Mentor developers on GitHub & LinkedIn visibility
+  - Mentor Students on GitHub & LinkedIn visibility
   - Organize tech events bridging academia & industry
   - Write AI-assisted prompts & workflows
 
