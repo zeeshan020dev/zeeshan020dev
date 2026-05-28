@@ -57,7 +57,7 @@ currently:
 passionate_about:
   - 🎮 Game development & interactive experiences
   - 🤝 Community building & student mentorship
-  - ⚡ Competitive programming & hackathons
+  - ⚡ Competitive programming/gaming & hackathons
   - 🔗 Blockchain & cryptocurrency
 
 open_to:
