@@ -132,14 +132,6 @@ open_to:
   </tr>
 </table>
 
-### ♟️ Tic Tac Toe — Minimax AI &nbsp;&nbsp; `C++ · DSA · Semester Project`
-
-Not tutorial tic tac toe. Implemented the full **Minimax algorithm** so the AI plays optimally every time — built as a semester Data Structures & Algorithms project.
-
-<a href="https://github.com/zeeshan020dev/Tic-Tac-Toe-Game">
-  <img src="https://img.shields.io/badge/Source Code-View-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
-</a>
-
 ---
 
 ## 📌 Pinned Projects
