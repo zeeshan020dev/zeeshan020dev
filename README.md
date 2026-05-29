@@ -77,7 +77,7 @@ open_to:
 
 ---
 
-## 🎮 Games I've Shipped
+## 🎮 Games I've Built at CEGA
 
 <table>
   <tr>
