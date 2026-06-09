@@ -153,7 +153,6 @@ open_to:
 
 ## 🏗️ What I'm Currently Working On
 
-- 🎮 Advancing Unity at **CEGA Pakistan** — physics systems, game feel, and optimization
 - 🌐 Growing **Unicodrex** — structured mentorship series for students targeting their first tech role
 - 📚 Deepening knowledge in **C# design patterns**, **Unity architecture**, and **game performance profiling**
 
