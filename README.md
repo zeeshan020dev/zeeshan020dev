@@ -40,7 +40,7 @@
 
 ```yaml
 name: Muhammad Zeeshan Islam
-role: Unity Game Developer | Co-Founder @ Unicodrex
+role: Unity Game Developer | Community Co-Founder @ Unicodrex
 location: Lahore, Pakistan
 
 what_i_do:
@@ -50,7 +50,7 @@ what_i_do:
   - Write AI-assisted prompts & workflows
 
 currently:
-  - 🎮 Training in Unity3D at CEGA Pakistan
+  - 🎮 Completed Training in Unity3D at CEGA Pakistan
   - 🏗️ Building the next Unicodrex mentorship series
   - 📚 Studying C# design patterns & game architecture
 
@@ -61,8 +61,8 @@ passionate_about:
   - 🔗 Blockchain & cryptocurrency
 
 open_to:
-  - On-site Game Dev internships (Lahore, Pakistan)
-  - Junior Unity Developer roles
+  - On-site Game Dev & Software Engineer internships (Lahore, Pakistan)
+  - Junior Unity Developer & Software Engineer roles
   - Hackathon collaborations
   - Speaking at student tech events
 ```
