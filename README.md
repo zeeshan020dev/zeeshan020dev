@@ -164,7 +164,7 @@ I co-founded Unicodrex to close the gap between what universities teach and what
 
 | What | Numbers |
 |------|---------|
-| 👨‍💻 Students mentored via GitHub & LinkedIn visibility series | **200+** |
+| 👨‍💻 Students mentored via GitHub & LinkedIn visibility series | **500+** |
 | 🎤 Tech events & workshops organized | **14+** |
 | 🌐 Community partners | **CNCF Cloud Native Lahore · AWS Community Pakistan · CNSL Pakistan · Skill Sprint** |
 | 🎯 Mission | Bridge academia and industry — give students real-world insights before their first interview |
