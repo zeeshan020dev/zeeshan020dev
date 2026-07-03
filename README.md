@@ -40,7 +40,7 @@
 
 ```yaml
 name: Muhammad Zeeshan Islam
-role: Unity Game Developer | Community Co-Founder @ Unicodrex
+role: Unity Game Developer | Co-Founder @ Unicodrex
 location: Lahore, Pakistan
 
 what_i_do:
