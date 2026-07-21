@@ -47,7 +47,6 @@ what_i_do:
   - Build games with Unity & C#
   - Mentor Students on GitHub & LinkedIn visibility
   - Organize tech events bridging academia & industry
-  - Write AI-assisted prompts & workflows
 
 currently:
   - 🎮 Completed Training in Unity3D at CEGA Pakistan
