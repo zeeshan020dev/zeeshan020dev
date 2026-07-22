@@ -126,6 +126,12 @@ open_to:
 ## 📌 Pinned Projects
 
 <p align="center">
+  <a href="https://github.com/zeeshan020dev/Interactive-3D-Particle-System">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=zeeshan020dev&repo=Interactive-3D-Particle-System&theme=react&hide_border=true&bg_color=0d1117" />
+  </a>
+  <a href="https://github.com/zeeshan020dev/Jarvis-AI-For-Windows-2026">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=zeeshan020dev&repo=Jarvis-AI-For-Windows-2026&theme=react&hide_border=true&bg_color=0d1117" />
+  </a>
   <a href="https://github.com/zeeshan020dev/Endless-Runner-Game">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=zeeshan020dev&repo=Endless-Runner-Game&theme=react&hide_border=true&bg_color=0d1117" />
   </a>
