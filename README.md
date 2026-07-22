@@ -137,14 +137,8 @@ open_to:
   <a href="https://github.com/zeeshan020dev/Ball-Blast-Game">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=zeeshan020dev&repo=Ball-Blast-Game&theme=react&hide_border=true&bg_color=0d1117" />
   </a>
-  <a href="https://github.com/zeeshan020dev/Snake-Game">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=zeeshan020dev&repo=Snake-Game&theme=react&hide_border=true&bg_color=0d1117" />
-  </a>
   <a href="https://github.com/zeeshan020dev/Car-Obstacle-Game">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=zeeshan020dev&repo=Car-Obstacle-Game&theme=react&hide_border=true&bg_color=0d1117" />
-  </a>
-  <a href="https://github.com/zeeshan020dev/Tic-Tac-Toe-Assembly-Version">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=zeeshan020dev&repo=Tic-Tac-Toe-Assembly-Version&theme=react&hide_border=true&bg_color=0d1117" />
   </a>
 </p>
 
