@@ -223,7 +223,7 @@ I co-founded Unicodrex to close the gap between what universities teach and what
 ## 📬 Let's Connect
 
 I'm actively looking for **on-site Game Development internships or junior roles** in Pakistan.
-If you're hiring, mentoring, or just want to talk games and community — reach out.
+If you're hiring, mentoring, or just want to talk games and community, reach out to me.
 
 <p align="center">
   <a href="https://linkedin.com/in/zeeshan020">
