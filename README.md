@@ -1,37 +1,28 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header&text=Muhammad%20Zeeshan%20Islam&fontSize=42&fontColor=ffffff&fontAlignY=38&fontAlign=50&desc=Co-Founder%20%40%20Unicodrex%20%7C%20Unity%20Game%20Developer%20%7C%20Community%20Builder&descAlignY=62&descSize=15&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header&text=Taha%20Siraj&fontSize=42&fontColor=ffffff&fontAlignY=38&fontAlign=50&desc=Ambassador%20%40%20CEGA%20Pakistan%20%7C%20Game%20%26%20Web%20Developer&descAlignY=62&descSize=15&descAlign=50" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=650&lines=Unity+Game+Developer+%F0%9F%8E%AE;Co-Founder+%40+Unicodrex+%F0%9F%9A%80;Mentored+500%2B+Students+%F0%9F%A4%9D;Ex-Trainee+%40+CEGA+Pakistan+%F0%9F%8E%93;Open+to+Game+Dev+Internships+%E2%9C%85" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=650&lines=Working+with+Unity+%F0%9F%8E%AE;Ambassador+%40+CEGA+Pakistan+%F0%9F%8E%93;Learning+Animation+%F0%9F%8E%A8;Open+to+Gaming+Collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🎮%20Open%20to-Game%20Dev%20Internships%20%26%20Junior%20Roles-22c55e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎮%20Open%20to-Gaming%20Projects%20%26%20Collaborations-22c55e?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/zeeshan020">
+  <a href="https://linkedin.com/in/mtahasirajofficial">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
   </a>&nbsp;
-  <a href="https://x.com/zeeshan020dev">
-    <img src="https://img.shields.io/badge/X-Follow-ffffff?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117" />
-  </a>&nbsp;
-  <a href="mailto:zeeshanislam015@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Email Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
-  </a>&nbsp;
-  <a href="https://facebook.com/zeeshan020">
-    <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0d1117" />
-  </a>&nbsp;
-  <a href="https://instagram.com/zeeshan020dev">
+  <a href="https://instagram.com/taha._.siraj">
     <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" />
+  </a>&nbsp;
+  <a href="mailto:mtahasiraj.official@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Email Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zeeshan020dev&label=Profile+Views&color=00c9ff&style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/github/followers/zeeshan020dev?label=Followers&style=for-the-badge&color=00c9ff&labelColor=0d1117" />
-  <a href="https://github.com/zeeshan020dev">
-    <img src="https://img.shields.io/badge/GitHub-Pro-black?style=for-the-badge&logo=github" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=mtahasirajofficial&label=Profile+Views&color=00c9ff&style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/github/followers/mtahasirajofficial?label=Followers&style=for-the-badge&color=00c9ff&labelColor=0d1117" />
 </p>
 
 ---
@@ -39,81 +30,93 @@
 ## 👾 About Me
 
 ```yaml
-name: Muhammad Zeeshan Islam
-role: Unity Game Developer | Co-Founder @ Unicodrex
-location: Lahore, Pakistan
+name: Taha Siraj
+role: Ambassador @ CEGA Pakistan
 
 what_i_do:
-  - Build games with Unity & C#
-  - Mentor Students on GitHub & LinkedIn visibility
-  - Organize tech events bridging academia & industry
+  - Work with Unity for game development
+  - Explore web & mobile development
+  - Represent CEGA Pakistan as an Ambassador
 
 currently:
-  - 🎮 Completed Training in Unity3D at CEGA Pakistan
-  - 🏗️ Building the next Unicodrex mentorship series
-  - 📚 Studying C# design patterns & game architecture
+  - 🎮 Working with Unity
+  - 🎨 Learning Animation (self-taught via YouTube)
 
 passionate_about:
-  - 🎮 Game development & interactive experiences
-  - 🤝 Community building & student mentorship
-  - ⚡ Competitive programming/gaming & hackathons
-  - 🔗 Blockchain & cryptocurrency
+  - 🎮 Gaming projects & interactive experiences
+  - 📈 Marketing
+  - 🌐 Web Development
 
 open_to:
-  - On-site Game Dev & Software Engineer internships (Lahore, Pakistan)
-  - Junior Unity Developer & Software Engineer roles
-  - Hackathon collaborations
-  - Speaking at student tech events
+  - Collaborating on Gaming Projects
+  - Talking Gaming, Marketing & Web Development
+
+fun_fact:
+  - Sharks have existed for over 400 million years 🦈
 ```
 
 ---
 
 ## 🛠️ Tech Stack
 
+**Core Languages**
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,cs,cpp,c,python,js,html,css,tailwind,bootstrap,firebase,mysql,aws,gcp,github,git,arduino,vscode&perline=9" />
+  <img src="https://skillicons.dev/icons?i=cpp,csharp,java,python,js,html,css&perline=7" />
+</p>
+
+**Web & Mobile**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,laravel,flutter,tailwind,bootstrap,wordpress,dotnet&perline=8" />
+</p>
+
+**Cloud & DevOps**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,firebase,netlify,kubernetes,apache&perline=6" />
+</p>
+
+**Databases**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,mssql&perline=4" />
+</p>
+
+**Design & Creative**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,premiere,canva&perline=4" />
+</p>
+
+**Game Dev & Tools**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=unity,git,github,arduino,vscode&perline=5" />
 </p>
 
 ---
 
-## 🎮 Games I've Built at CEGA
+## 🎮 Games I've Built
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏃 Endless Runner</h3>
+      <h3>🎮 REPLACE-WITH-PROJECT-NAME</h3>
       <p><b>Unity · C#</b></p>
-      <p>Procedural level generation, dynamic obstacle spawning, and score tracking — built during CEGA training and live on Unity Play.</p>
+      <p>REPLACE-WITH-PROJECT-DESCRIPTION</p>
       <p>
-        <a href="https://github.com/zeeshan020dev/Endless-Runner-Game">
+        <a href="https://github.com/mtahasirajofficial/REPLACE-WITH-REPO-NAME">
           <img src="https://img.shields.io/badge/Source Code-View-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
-        </a>&nbsp;
-        <a href="https://play.unity.com/en/games/57e5abb5-53b7-45c1-9776-cc1528fc8527/endless-runner-game">
-          <img src="https://img.shields.io/badge/▶ Play-Unity Play-00c9ff?style=for-the-badge&logo=unity&logoColor=white&labelColor=0d1117" />
         </a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>💣 Ball Blast Game</h3>
+      <h3>🎮 REPLACE-WITH-PROJECT-NAME</h3>
       <p><b>Unity · C#</b></p>
-      <p>Recreated core Ball Blast mechanics — projectile physics, ball splitting logic, and progressive difficulty scaling from scratch.</p>
+      <p>REPLACE-WITH-PROJECT-DESCRIPTION</p>
       <p>
-        <a href="https://github.com/zeeshan020dev/Ball-Blast-Game">
-          <img src="https://img.shields.io/badge/Source Code-View-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
-        </a>&nbsp;
-        <a href="https://play.unity.com/en/games/3c693589-8b12-442a-bc49-d595288b16eb/shooting-game">
-          <img src="https://img.shields.io/badge/▶ Play-Unity Play-00c9ff?style=for-the-badge&logo=unity&logoColor=white&labelColor=0d1117" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center" valign="top">
-      <h3>🚗 Car Obstacle Game</h3>
-      <p><b>Unity · C#</b></p>
-      <p>Lane-based obstacle avoidance with collision detection, speed ramp-up, and responsive controls.</p>
-      <p>
-        <a href="https://github.com/zeeshan020dev/Car-Obstacle-Game">
+        <a href="https://github.com/mtahasirajofficial/REPLACE-WITH-REPO-NAME">
           <img src="https://img.shields.io/badge/Source Code-View-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
         </a>
       </p>
@@ -121,30 +124,26 @@ open_to:
   </tr>
 </table>
 
+> ⚠️ Add your actual Unity/game projects here — replace the placeholders above with real repo names and descriptions.
+
 ---
 
 ## 📌 Pinned Projects
 
 <p align="center">
-  <a href="https://github.com/zeeshan020dev/Interactive-3D-Particle-System">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=zeeshan020dev&repo=Interactive-3D-Particle-System&theme=react&hide_border=true&bg_color=0d1117" />
+  <a href="https://github.com/mtahasirajofficial/REPLACE-WITH-REPO-NAME">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=mtahasirajofficial&repo=REPLACE-WITH-REPO-NAME&theme=react&hide_border=true&bg_color=0d1117" />
   </a>
-  <a href="https://github.com/zeeshan020dev/Jarvis-AI-For-Windows-2026">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=zeeshan020dev&repo=Jarvis-AI-For-Windows-2026&theme=react&hide_border=true&bg_color=0d1117" />
-  </a>
-  <a href="https://github.com/zeeshan020dev/Endless-Runner-Game">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=zeeshan020dev&repo=Endless-Runner-Game&theme=react&hide_border=true&bg_color=0d1117" />
-  </a>
-  <a href="https://github.com/zeeshan020dev/Tic-Tac-Toe-Game">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=zeeshan020dev&repo=Tic-Tac-Toe-Game&theme=react&hide_border=true&bg_color=0d1117" />
+  <a href="https://github.com/mtahasirajofficial/REPLACE-WITH-REPO-NAME">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=mtahasirajofficial&repo=REPLACE-WITH-REPO-NAME&theme=react&hide_border=true&bg_color=0d1117" />
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/zeeshan020dev/Ball-Blast-Game">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=zeeshan020dev&repo=Ball-Blast-Game&theme=react&hide_border=true&bg_color=0d1117" />
+  <a href="https://github.com/mtahasirajofficial/REPLACE-WITH-REPO-NAME">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=mtahasirajofficial&repo=REPLACE-WITH-REPO-NAME&theme=react&hide_border=true&bg_color=0d1117" />
   </a>
-  <a href="https://github.com/zeeshan020dev/Car-Obstacle-Game">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=zeeshan020dev&repo=Car-Obstacle-Game&theme=react&hide_border=true&bg_color=0d1117" />
+  <a href="https://github.com/mtahasirajofficial/REPLACE-WITH-REPO-NAME">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=mtahasirajofficial&repo=REPLACE-WITH-REPO-NAME&theme=react&hide_border=true&bg_color=0d1117" />
   </a>
 </p>
 
@@ -152,86 +151,73 @@ open_to:
 
 ## 🏗️ What I'm Currently Working On
 
-- 🌐 Growing [Unicodrex](https://www.linkedin.com/company/unicodrex) — structured mentorship series for students targeting their first tech role
-- 📚 Deepening knowledge in **C# design patterns**, **Unity architecture**, and **game performance profiling**
-- 🤝 Serving as **Management & Media Volunteer** at [AWS Community Pakistan](https://www.linkedin.com/company/aws-community-pakistan/)
-- 🔐 Serving as **Social Media Manager Volunteer** at [Cloud Native Security Pakistan (CNSP)](https://www.linkedin.com/company/cloud-native-security-pakistan/)
+- 🎮 Building projects and skills in **Unity**
+- 🎨 Learning **Animation** through self-study
+- 🎓 Representing **CEGA Pakistan** as an Ambassador
 
 ---
 
-## 🤝 Unicodrex — Community Work
+## 🎓 CEGA Pakistan — Ambassador Role
 
-I co-founded Unicodrex to close the gap between what universities teach and what the industry expects.
+I represent CEGA Pakistan as an Ambassador, supporting the community's mission around game development education.
 
-| What | Numbers |
+| What | Details |
 |------|---------|
-| 👨‍💻 Students mentored via GitHub & LinkedIn visibility series | **500+** |
-| 🎤 Tech events & workshops organized | **14+** |
-| 🌐 Community partners | **CNCF Cloud Native Lahore · AWS Community Pakistan · CNSL Pakistan · Skill Sprint** |
-| 🎯 Mission | Bridge academia and industry — give students real-world insights before their first interview |
+| 🎓 Role | Ambassador at CEGA Pakistan |
+| 🎯 Focus | Game development education & community representation |
+
+> ⚠️ Add specific numbers or achievements here (events supported, students reached, etc.) if available — concrete figures make this section far stronger.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zeeshan020dev&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zeeshan020dev&layout=compact&theme=react&hide_border=true&bg_color=0d1117&langs_count=6" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mtahasirajofficial&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mtahasirajofficial&layout=compact&theme=react&hide_border=true&bg_color=0d1117&langs_count=6" />
 </p>
 
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=zeeshan020dev&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" />
+  <img src="https://github-trophies.vercel.app/?username=mtahasirajofficial&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshan020dev&theme=react&hide_border=true&background=0d1117" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mtahasirajofficial&theme=react&hide_border=true&background=0d1117" />
 </p>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=zeeshan020dev&theme=react-dark&bg_color=0d1117&color=00c9ff&line=00c9ff&point=ffffff&area=true&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mtahasirajofficial&theme=react-dark&bg_color=0d1117&color=00c9ff&line=00c9ff&point=ffffff&area=true&hide_border=true" />
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zeeshan020dev&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zeeshan020dev&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mtahasirajofficial&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mtahasirajofficial&theme=github_dark" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zeeshan020dev&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zeeshan020dev&theme=github_dark&utcOffset=5" />
-</p>
-
----
-
-## 📈 3D Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/zeeshan020dev/zeeshan020dev/main/profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mtahasirajofficial&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mtahasirajofficial&theme=github_dark&utcOffset=5" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## ✍️ Random Dev Quote
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zeeshan020dev/zeeshan020dev/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zeeshan020dev/zeeshan020dev/output/github-snake.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/zeeshan020dev/zeeshan020dev/output/github-snake.svg" />
-  </picture>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
 ---
 
 ## 📬 Let's Connect
 
-I'm actively looking for **on-site Game Development internships or junior roles** in Pakistan.
-If you're hiring, mentoring, or just want to talk games and community, reach out to me.
+I'm open to collaborating on **Gaming Projects** in Pakistan.
+If you're building something interesting or just want to talk gaming, marketing, or web dev — reach out.
 
 <p align="center">
-  <a href="https://linkedin.com/in/zeeshan020">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/mtahasirajofficial">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
   </a>
   &nbsp;
-  <a href="mailto:zeeshanislam015@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:mtahasiraj.official@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Email Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
   </a>
 </p>
 
