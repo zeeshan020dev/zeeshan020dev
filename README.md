@@ -131,15 +131,7 @@ I co-founded Unicodrex to close the gap between what universities teach and what
   <img src="./github-metrics.svg" alt="GitHub Metrics" width="100%">
 </p>
 
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=zeeshan020dev&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshan020dev&theme=react&hide_border=true&background=0d1117" />
-</p>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=zeeshan020dev&theme=react-dark&bg_color=0d1117&color=00c9ff&line=00c9ff&point=ffffff&area=true&hide_border=true" />
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zeeshan020dev&theme=github_dark" />
