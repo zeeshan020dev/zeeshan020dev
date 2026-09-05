@@ -127,7 +127,9 @@ I co-founded Unicodrex to close the gap between what universities teach and what
 
 ## 📊 GitHub Metrics
 
-![GitHub Metrics](https://raw.githubusercontent.com/zeeshan020dev/zeeshan020dev/main/github-metrics.svg)
+<p align="center">
+  <img src="./github-metrics.svg" alt="GitHub Metrics" width="100%">
+</p>
 
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=zeeshan020dev&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" />
