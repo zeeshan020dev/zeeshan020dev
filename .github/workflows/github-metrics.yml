@@ -19,8 +19,18 @@ jobs:
           filename: github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, activity, community, repositories, metadata
+
           plugin_languages: yes
           plugin_languages_details: bytes-size, percentage
+
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+
+          # Issues & PR status — "Overall issues and pull requests status"
+          plugin_followup: yes
+          plugin_followup_sections: repositories, user
+
+          # Star growth charts — "Stargazers"
+          plugin_stargazers: yes
+
           config_timezone: Asia/Karachi
