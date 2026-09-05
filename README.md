@@ -76,53 +76,6 @@ open_to:
 
 ---
 
-## 🎮 Games I've Built at CEGA
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏃 Endless Runner</h3>
-      <p><b>Unity · C#</b></p>
-      <p>Procedural level generation, dynamic obstacle spawning, and score tracking — built during CEGA training and live on Unity Play.</p>
-      <p>
-        <a href="https://github.com/zeeshan020dev/Endless-Runner-Game">
-          <img src="https://img.shields.io/badge/Source Code-View-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
-        </a>&nbsp;
-        <a href="https://play.unity.com/en/games/57e5abb5-53b7-45c1-9776-cc1528fc8527/endless-runner-game">
-          <img src="https://img.shields.io/badge/▶ Play-Unity Play-00c9ff?style=for-the-badge&logo=unity&logoColor=white&labelColor=0d1117" />
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💣 Ball Blast Game</h3>
-      <p><b>Unity · C#</b></p>
-      <p>Recreated core Ball Blast mechanics — projectile physics, ball splitting logic, and progressive difficulty scaling from scratch.</p>
-      <p>
-        <a href="https://github.com/zeeshan020dev/Ball-Blast-Game">
-          <img src="https://img.shields.io/badge/Source Code-View-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
-        </a>&nbsp;
-        <a href="https://play.unity.com/en/games/3c693589-8b12-442a-bc49-d595288b16eb/shooting-game">
-          <img src="https://img.shields.io/badge/▶ Play-Unity Play-00c9ff?style=for-the-badge&logo=unity&logoColor=white&labelColor=0d1117" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center" valign="top">
-      <h3>🚗 Car Obstacle Game</h3>
-      <p><b>Unity · C#</b></p>
-      <p>Lane-based obstacle avoidance with collision detection, speed ramp-up, and responsive controls.</p>
-      <p>
-        <a href="https://github.com/zeeshan020dev/Car-Obstacle-Game">
-          <img src="https://img.shields.io/badge/Source Code-View-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 📌 Pinned Projects
 
 <p align="center">
