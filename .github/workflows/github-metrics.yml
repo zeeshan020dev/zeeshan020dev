@@ -1,0 +1,39 @@
+name: GitHub Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"     # runs once a day
+  workflow_dispatch:         # lets you trigger it manually from the Actions tab
+  push:
+    branches:
+      - main
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # === What sections to include ===
+          base: header, activity, community, repositories, metadata
+
+          # === Plugins ===
+          plugin_languages: yes
+          plugin_languages_details: bytes-size, percentage
+
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          plugin_achievements: yes
+          plugin_achievements_display: detailed
+
+          config_timezone: Asia/Karachi
