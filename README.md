@@ -106,15 +106,13 @@ open_to:
 ## 🏗️ What I'm Currently Working On
 
 - 🌐 Growing [Unicodrex](https://www.linkedin.com/company/unicodrex) — structured mentorship series for students targeting their first tech role
-- 📚 Deepening knowledge in **C# design patterns**, **Unity architecture**, and **game performance profiling**
-- 🤝 Serving as **Management & Media Volunteer** at [AWS Community Pakistan](https://www.linkedin.com/company/aws-community-pakistan/)
-- 🔐 Serving as **Social Media Manager Volunteer** at [Cloud Native Security Pakistan (CNSP)](https://www.linkedin.com/company/cloud-native-security-pakistan/)
+- 📚 Deepening knowledge in **Python**
 
 ---
 
 ## 🤝 Unicodrex — Community Work
 
-I co-founded Unicodrex to close the gap between what universities teach and what the industry expects.
+I co-established Unicodrex to close the gap between what universities teach and what the industry expects.
 
 | What | Numbers |
 |------|---------|
